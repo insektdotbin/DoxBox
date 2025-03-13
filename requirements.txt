@@ -1,2 +1,5 @@
 art==6.4
+cffi==1.17.1
 colorama==0.4.6
+cryptography==44.0.2
+pycparser==2.22
