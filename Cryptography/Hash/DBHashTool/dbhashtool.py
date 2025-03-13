@@ -22,7 +22,7 @@ HASH_ALGORITHMS = {
 
 def print_banner():
     """Display program banner"""
-    print(Fore.CYAN + text2art("Hash Tool") + Style.RESET_ALL)
+    print(Fore.CYAN + text2art("DoxBox") + Style.RESET_ALL)
     print(
         Fore.YELLOW
         + "Warning: Avoid using MD5/SHA1 for sensitive data!\n"
