@@ -4,12 +4,12 @@ The DoxBox project provides examples of simple open-source tools across various 
 # 🔧 Prerequisites
 1. Installed Git
 2. Installed Python 3
-3. Installed Project Modules (You can use ```pip install -r requirements.txt``` inside example directories 
+3. Installed Project Modules (You can use ```pip install -r requirements.txt``` inside project root directory 
 
 # ℹ️ How can I use this Project?
 1. Clone the Project using: ```git clone https://github.com/insektdotbin/DoxBox```
-2. Navigate to example directory (e.g. DoxBox/Scanners/PortScanner/DBPortScanner) using ```cd DoxBox/Scanners/PortScanner/DBPortScanner```
-3. Use pip to install the required modules: ```pip3 install -r requirements.txt```
+2. Use pip to install the required modules: ```pip3 install -r requirements.txt```
+3. Navigate to example directory (e.g. DoxBox/Scanners/PortScanner/DBPortScanner) using ```cd DoxBox/Scanners/PortScanner/DBPortScanner```
 4. Use python to run example: ```python3 example.py``` (e.g. ```python3 dbportscanner.py```)
 5. Use any Text Editor/IDE to preview the example script
 
