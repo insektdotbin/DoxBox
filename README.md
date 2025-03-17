@@ -3,7 +3,7 @@ The DoxBox project provides examples of simple open-source tools across various 
 
 # 🔧 Prerequisites
 1. Installed Git
-2. Installed Python 3
+2. Installed Python 3.8 or higher
 3. Installed Project Modules (You can use ```pip install -r requirements.txt``` inside project root directory 
 
 # ℹ️ How can I use this Project?
