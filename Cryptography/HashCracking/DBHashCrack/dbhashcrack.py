@@ -23,7 +23,7 @@ HASH_INFO = {
 
 def print_banner():
     """Display program banner with warnings"""
-    print(Fore.RED + text2art("HashCracker") + Style.RESET_ALL)
+    print(Fore.RED + text2art("DoxBox") + Style.RESET_ALL)
     print(
         Fore.YELLOW
         + "Ethical Use Warning: Only crack hashes you own or have permission to crack!\n"
