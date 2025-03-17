@@ -45,4 +45,8 @@ Enter wordlist path: passwords.txt
 # Ethical Guidelines
 Only use this tool on systems you own or have permission to test.
 
+<<<<<<< HEAD
 Do not use it for malicious purposes.
+=======
+Do not use it for malicious purposes.
+>>>>>>> 2f894439d32b4bf1a7f02ab19112e0113868be01
