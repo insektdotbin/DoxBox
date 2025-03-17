@@ -1,4 +1,4 @@
-# Hash Cracking Tool
+# DoxBox Hash Cracking Tool
 ## Overview
 The Hash Cracking Tool is a multi-threaded Python application designed to crack hashes using a wordlist. It supports multiple hash algorithms, including MD5, SHA-1, SHA-256, SHA-512, SHA3, and BLAKE2. The tool is optimized for performance and includes ethical use warnings.
 
@@ -19,11 +19,12 @@ Warns against using weak algorithms (MD5/SHA1).
 ```bash
 pip install art colorama
 ```
-3. Download the script:
 
+3. Download the Project:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/doxbox-toolkit/main/hash_cracker.py
+git clone https://github.com/insektdotbin/DoxBox
 ```
+
 # Usage
 ```bash
 python dbhashcrack.py
