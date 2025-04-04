@@ -1,6 +1,6 @@
 # DoxBox Hash Cracking Tool
 ## Overview
-The Hash Cracking Tool is a multi-threaded Python application designed to crack hashes using a wordlist. It supports multiple hash algorithms, including MD5, SHA-1, SHA-256, SHA-512, SHA3, and BLAKE2. The tool is optimized for performance and includes ethical use warnings.
+The Hash Cracking Tool is a multi-threaded Python application designed to crack hashed passwords using a wordlist. It supports multiple hash algorithms, including MD5, SHA-1, SHA-256, SHA-512, SHA3, and BLAKE2. The tool is optimized for performance and includes ethical use warnings.
 
 ## Features
 Supports 8 hash algorithms.
